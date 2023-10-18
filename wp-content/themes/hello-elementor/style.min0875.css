@@ -514,6 +514,9 @@ ul {
 .elementor-element-d4fadcd ul{
     padding-left: 65px;
 }
+.elementor-element-d4fadcd ul li a, .elementor-element-d4fadcd ul li a:hover {
+    color: #fff;
+}
 .elementor-element-d4fadcd ul li {
     color: #fff;
     list-style: none;
@@ -551,28 +554,31 @@ ul {
     top: 80px;
 }
 .elementor-656 .elementor-element.elementor-element-52ccb2c .elementskit-infobox.gradient-active:hover.elementskit-infobox .elementskit-info-box-icon {
-    background-image: url(../../images/05/Icon/01_green.png);
+    background-image: url(../../images/05/Icon/01_White.png);
 }
 .elementor-656 .elementor-element.elementor-element-96dd140 .elementskit-infobox.gradient-active:hover .elementskit-info-box-icon {
-    background-image: url(../../images/05/Icon/02Green.png);
+    background-image: url(../../images/05/Icon/02White.png);
 }
 .elementor-656 .elementor-element.elementor-element-486287f .elementskit-infobox.gradient-active:hover .elementskit-info-box-icon {
-    background-image: url(../../images/05/Icon/03Green.png);
+    background-image: url(../../images/05/Icon/03White.png);
 }
 .elementor-656 .elementor-element.elementor-element-1386659 .elementskit-infobox.gradient-active:hover .elementskit-info-box-icon {
-    background-image: url(../../images/05/Icon/04Green.png);
+    background-image: url(../../images/05/Icon/04White.png);
 }
 .elementor-656 .elementor-element.elementor-element-1869ce4 .elementskit-infobox.gradient-active:hover .elementskit-info-box-icon {
-    background-image: url(../../images/05/Icon/05Green.png);
+    background-image: url(../../images/05/Icon/05White.png);
 }
 .elementor-656 .elementor-element.elementor-element-9cb043b .elementskit-infobox.gradient-active:hover .elementskit-info-box-icon {
-    background-image: url(../../images/05/Icon/06green.png);
+    background-image: url(../../images/05/Icon/06white.png);
 }
 .elementor-element-531fcf9 .elementskit-box-header img, .elementor-656 .elementor-element.elementor-element-ce9b5d8 img{
     transition: 1s;
 }
 .elementor-element-531fcf9 .elementskit-box-header img:hover, .elementor-656 .elementor-element.elementor-element-ce9b5d8 img:hover {
     transform: scale(0.8);
+}
+.elementor-656 .elementor-element.elementor-element-0ef619c.ob-is-breaking-bad>.elementor-container{
+    align-items: center;
 }
 
 @media only screen and (min-width: 1600px) {
